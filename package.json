@@ -1,5 +1,5 @@
 {
-  "name": "contact-keeper",
+  "name": "contact-keeper-api",
   "version": "1.0.0",
   "description": "ContactKeeper app for personal and professional contacts",
   "main": "server.js",
@@ -9,7 +9,7 @@
 		"server": "nodemon server.js"
   },
   "author": "Muhammad Osama",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "config": "^3.2.3",
